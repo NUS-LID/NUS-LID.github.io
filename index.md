@@ -15,7 +15,7 @@ Welcome to NUS-LID group's website. We work on exciting research in machine lear
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Find out our selected research papers in the related fields of machine learning, planning, inference, and more. 
 
 {%
   include button.html
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Find out our current research topics!
 
 {%
   include button.html
