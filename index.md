@@ -1,5 +1,7 @@
 ---
+title: Home
 ---
+
 
 # Learning, Inference, and Decision Group
 
