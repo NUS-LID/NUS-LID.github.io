@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: 1989Ryan
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: NUS-LID Group
+subtitle: Learning, Inference, and Decision Group at NUS
+description: We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@1989Ryan.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: 1989Ryan
-  twitter: 1989Ryan
-  youtube: 1989Ryan
+  email: leews@comp.nus.edu.sg
+  google-scholar: 8PCrLgwAAAAJ
+  github: NUS-LID
 
 ### jekyll settings
 
