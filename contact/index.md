@@ -7,27 +7,31 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is affiliated with the Department of Computer Science in the School of Computing, National University of Singapore. 
+
+Address: <br>
+School of Computing <br>
+National University of Singapore <br>
+13 Computing Drive <br>
+Singapore 117417 <br>
+Republic of Singapore <br>
+
+Office: COM3 02-28 <br>
+Phone: +65 6516 4526 <br>
+Fax: +65 6779 4580 <br>
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="leews@comp.nus.edu.sg"
+  link="leews@comp.nus.edu.sg"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/GZvwBbQ3StvyHy9q8"
 %}
 
 {% include section.html %}

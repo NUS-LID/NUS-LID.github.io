@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: NUS LID Group
+title: NUS-LID Group
 subtitle: Learning, Inference, and Decision Group at NUS
-description: 
+description: We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: leews@comp.nus.edu.sg
+  google-scholar: 8PCrLgwAAAAJ
+  github: NUS-LID
 
 ### jekyll settings
 

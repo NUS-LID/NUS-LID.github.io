@@ -1,19 +1,13 @@
 ---
+title: Home
 ---
 
-We are working on exciting research in machine learning, planning under uncertainty, and approximate inference. 
+<center> <font size='7'><b>NUS-LID Group</b></font> </center>
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+<center><font size="6"> <b>L</b>earning, <b>I</b>nference, and <b>D</b>ecision Group at NUS </font></center>
+
+
+Welcome to NUS-LID group's website. We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
 
 {% include section.html %}
 
@@ -21,7 +15,7 @@ We are working on exciting research in machine learning, planning under uncertai
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Find out our selected research papers in the related fields of machine learning, planning, inference, and more. 
 
 {%
   include button.html
@@ -44,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Find out our current research topics!
 
 {%
   include button.html
@@ -69,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet with our team members
 
 {%
   include button.html
