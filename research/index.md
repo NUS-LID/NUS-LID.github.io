@@ -23,15 +23,15 @@ You can choose to checkout our recept research works in Google Scholar.
 {% include citation.html lookup="Factor graph neural network" style="rich" %}
 {% include citation.html lookup="Particle filter recurrent neural networks" style="rich" %}
 {% include citation.html lookup="Differentiable algorithm networks for composable robot learning" style="rich" %}
-{% include citation.html lookup="DESPOT: Online POMDP Planning with Regularization" style="rich" %}
-{% include citation.html lookup="Tensor Belief Propagation" style="rich" %}
+{% include citation.html lookup="Despot: Online pomdp planning with regularization" style="rich" %}
+{% include citation.html lookup="Tensor belief propagation" style="rich" %}
 {% include citation.html lookup="Shortest Path under Uncertainty: Exploration versus Exploitation" style="rich" %}
-{% include citation.html lookup="Near-optimal Adaptive Pool-based Active Learning" style="rich" %}
-{% include citation.html lookup="Integrated Perception and Planning in Continuous Space: A POMDP Approach" style="rich" %}
-{% include citation.html lookup="Conditional Random Field with High-order Dependencies for Sequence Labeling and Segmentation" style="rich" %}
-{% include citation.html lookup="SARSOP: Efficient point-based pomdp planning by approximating optimally reachable belief spaces" style="rich" %}
+{% include citation.html lookup="Near-optimal adaptive pool-based active learning" style="rich" %}
+{% include citation.html lookup="Integrated perception and planning in continuous space: A POMDP Approach" style="rich" %}
+{% include citation.html lookup="Conditional random field with high-order dependencies for sequence labeling and segmentation" style="rich" %}
+{% include citation.html lookup="SARSOP: Efficient point-based POMDP planning by approximating optimally reachable belief spaces" style="rich" %}
 {% include citation.html lookup="Partially supervised classification of text documents" style="rich" %}
-{% include citation.html lookup="Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods" style="rich" %}
+{% include citation.html lookup="Boosting the margin: A new explanation for the effectiveness of voting methods" style="rich" %}
 
 {% include section.html %}
 
