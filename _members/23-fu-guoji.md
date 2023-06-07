@@ -1,6 +1,6 @@
 ---
 name: Fu Guoji
 image: images/photo.jpg
-role: phd
+role: ra
 ---
 

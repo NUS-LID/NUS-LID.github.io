@@ -10,6 +10,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+ra:
+  icon: fa-solid fa-glasses
+  description: Research Assistant
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
