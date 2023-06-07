@@ -1,7 +1,8 @@
 ---
 title: Home
 ---
-# <center> NUS-LID Group </center>
+
+<center> <font size='7'>NUS-LID Group</font> </center><br>
 <center><font size="4"> <b>L</b>earning, <b>I</b>nference, and <b>D</b>ecision Group at NUS </font></center>
 
 
