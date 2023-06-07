@@ -31,12 +31,9 @@
   - Z Zhang
   - D Hsu
   - WS Lee
-  - ZW Lim
-  - A Bai
-  publisher: "Proceedings of the International Conference on Automated Planning and\
-    \ \u2026, 2015"
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:qOpkhvVCMvUC
+  publisher: Advances in neural information processing systems, 1772-1780, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:zaHkCSmj5XkC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -150,15 +147,18 @@
 - id: 8PCrLgwAAAAJ:mB3voiENLucC
   title: Tiling and adaptive image compression
   authors:
+  - H Kurniawati
+  - Y Du
+  - D Hsu
   - WS Lee
-  publisher: IEEE Transactions on Information Theory 46 (5), 1789-1799, 2000
-  date: '2000-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:mB3voiENLucC
+  publisher: The International Journal of Robotics Research 30 (3), 308, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:M3ejUd6NZC8C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:2u1QkWOsl3MC
-  title: 'POMDP to the rescue: Boosting performance for RoboCup rescue'
+- id: 8PCrLgwAAAAJ:Tyk-4Ss8FVUC
+  title: Collaborative learning for recommender systems
   authors:
   - K Wu
   - WS Lee
