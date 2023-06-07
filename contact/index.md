@@ -31,7 +31,7 @@ Fax: +65 6779 4580 <br>
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/GZvwBbQ3StvyHy9q8"
+  link="https://goo.gl/maps/gGsgZnHH38t1yWFk9"
 %}
 
 {% include section.html %}
