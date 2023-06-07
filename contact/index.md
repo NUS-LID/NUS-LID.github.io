@@ -9,6 +9,17 @@ nav:
 
 Our group is affiliated with the Department of Computer Science in the School of Computing, National University of Singapore. 
 
+Address: 
+School of Computing 
+National University of Singapore
+13 Computing Drive
+Singapore 117417
+Republic of Singapore
+
+Office: COM3 02-28
+Phone: +65 6516 4526
+Fax: +65 6779 4580
+
 {%
   include button.html
   type="email"
