@@ -7,8 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You can choose to checkout our recept research works in Google Scholar. 
+{%
+  include button.html
+  type="link"
+  text="Google Scholar Link"
+  link="https://scholar.google.com/citations?user=8PCrLgwAAAAJ"
+%}
 
 {% include section.html %}
 
