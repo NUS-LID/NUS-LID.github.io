@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# {% include icon.html icon="fa-solid fa-microscope" %}Learning, Inference, and Decision Group
+# Learning, Inference, and Decision Group
 
 Welcome to NUS-LID group's website. We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
 
