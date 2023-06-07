@@ -19,19 +19,19 @@ You can choose to checkout our recept research works in Google Scholar.
 
 ## Highlighted
 
-{% include citation.html lookup="PF-GNN: Differentiable particle filtering based approximation of universal graph representations" style="rich" %}
-{% include citation.html lookup="Factor graph neural network" style="rich" %}
-{% include citation.html lookup="Particle filter recurrent neural networks" style="rich" %}
-{% include citation.html lookup="Differentiable algorithm networks for composable robot learning" style="rich" %}
-{% include citation.html lookup="Despot: Online pomdp planning with regularization" style="rich" %}
-{% include citation.html lookup="Tensor belief propagation" style="rich" %}
-{% include citation.html lookup="Shortest Path under Uncertainty: Exploration versus Exploitation" style="rich" %}
-{% include citation.html lookup="Near-optimal adaptive pool-based active learning" style="rich" %}
-{% include citation.html lookup="Integrated perception and planning in continuous space: A POMDP Approach" style="rich" %}
-{% include citation.html lookup="Conditional random field with high-order dependencies for sequence labeling and segmentation" style="rich" %}
-{% include citation.html lookup="SARSOP: Efficient point-based POMDP planning by approximating optimally reachable belief spaces" style="rich" %}
-{% include citation.html lookup="Partially supervised classification of text documents" style="rich" %}
-{% include citation.html lookup="Boosting the margin: A new explanation for the effectiveness of voting methods" style="rich" %}
+{% include citation.html lookup="PF-GNN: Differentiable particle filtering based approximation of universal graph representations"  %}
+{% include citation.html lookup="Factor graph neural network"  %}
+{% include citation.html lookup="Particle filter recurrent neural networks"  %}
+{% include citation.html lookup="Differentiable algorithm networks for composable robot learning"  %}
+{% include citation.html lookup="Despot: Online pomdp planning with regularization"  %}
+{% include citation.html lookup="Tensor belief propagation"  %}
+{% include citation.html lookup="Shortest Path under Uncertainty: Exploration versus Exploitation"  %}
+{% include citation.html lookup="Near-optimal adaptive pool-based active learning"  %}
+{% include citation.html lookup="Integrated perception and planning in continuous space: A POMDP Approach"  %}
+{% include citation.html lookup="Conditional random field with high-order dependencies for sequence labeling and segmentation"  %}
+{% include citation.html lookup="SARSOP: Efficient point-based POMDP planning by approximating optimally reachable belief spaces"  %}
+{% include citation.html lookup="Partially supervised classification of text documents"  %}
+{% include citation.html lookup="Boosting the margin: A new explanation for the effectiveness of voting methods"  %}
 
 {% include section.html %}
 
@@ -41,4 +41,4 @@ You can choose to checkout our recept research works in Google Scholar.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation"%}
