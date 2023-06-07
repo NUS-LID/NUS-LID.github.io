@@ -9,7 +9,7 @@ nav:
 
 Our group is affiliated with the Department of Computer Science in the School of Computing, National University of Singapore. 
 
-Address: 
+Address: <br>
 School of Computing <br>
 National University of Singapore <br>
 13 Computing Drive <br>
