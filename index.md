@@ -1,9 +1,9 @@
 ---
 ---
 
-# 1989Ryan's Website
+# Learning, Inference, and Decision Group
 
-An engaging 1-3 sentence description of your lab.
+Welcome to NUS-LID group's website. We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
 
 {% include section.html %}
 
