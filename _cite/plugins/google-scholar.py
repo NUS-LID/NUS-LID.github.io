@@ -18,6 +18,8 @@ def main(entry):
     params = {
         "engine": "google_scholar_author",
         "api_key": "901617e93b784781781d4f365f0fa28d6e2afbd98e5f933ab6f9427a86cf907c",
+        "start":100,
+        "num": 100,  # max allowed
     }
 
     # get id from entry
