@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %} Current Team Members
 
 
 {% include section.html %}
@@ -15,3 +15,4 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
+# {% include icon.html icon="fa-solid fa-users" %} Alumni
