@@ -24,19 +24,14 @@ Fax: +65 6779 4580 <br>
   include button.html
   type="email"
   text="leews@comp.nus.edu.sg"
-  link="jane@smith.com"
+  link="leews@comp.nus.edu.sg"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/GZvwBbQ3StvyHy9q8"
 %}
 
 {% include section.html %}
