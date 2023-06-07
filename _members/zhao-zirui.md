@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Zirui Zhao
 image: images/photo.jpg
 role: phd
-group: alum
 links:
-  github: john-doe
+  github: 1989ryan
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

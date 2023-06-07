@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Mohammed Haroon Dupty
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Research Fellow
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: haroon@nus.edu.sg
+  # twitter: sarahjohnson
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
