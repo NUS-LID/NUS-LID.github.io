@@ -27,7 +27,7 @@ You can choose to checkout our recept research works in Google Scholar.
 {% include citation.html lookup="Tensor belief propagation"  %}
 {% include citation.html lookup="Shortest Path under Uncertainty: Exploration versus Exploitation"  %}
 {% include citation.html lookup="Near-optimal adaptive pool-based active learning"  %}
-{% include citation.html lookup="Integrated perception and planning in continuous space: A POMDP approach"  %}
+{% include citation.html lookup="Integrated perception and planning in the continuous space: A POMDP approach"  %}
 {% include citation.html lookup="Conditional random field with high-order dependencies for sequence labeling and segmentation"  %}
 {% include citation.html lookup="SARSOP: Efficient point-based POMDP planning by approximating optimally reachable belief spaces"  %}
 {% include citation.html lookup="Partially supervised classification of text documents"  %}
