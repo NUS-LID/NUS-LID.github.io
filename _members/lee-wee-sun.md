@@ -1,5 +1,5 @@
 ---
-name: Wee Sun Lee
+name: Lee Wee Sun
 image: images/leews.jpg
 role: pi
 links:

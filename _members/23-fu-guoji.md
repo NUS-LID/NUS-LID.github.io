@@ -1,5 +1,5 @@
 ---
-name: Guoji Fu
+name: Fu Guoji
 image: images/photo.jpg
 role: phd
 ---

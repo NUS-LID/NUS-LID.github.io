@@ -1,5 +1,5 @@
 ---
-name: Liwei Kang
+name: Kang Liwei
 image: images/photo.jpg
 role: phd
 ---

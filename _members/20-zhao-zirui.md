@@ -1,5 +1,5 @@
 ---
-name: Zirui Zhao
+name: Zhao Zirui
 image: images/photo.jpg
 role: phd
 links:

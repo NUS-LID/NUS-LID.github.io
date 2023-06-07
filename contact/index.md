@@ -7,14 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is affiliated with the Department of Computer Science in the School of Computing, National University of Singapore. 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
+  text="leews@comp.nus.edu.sg"
   link="jane@smith.com"
 %}
 {%
