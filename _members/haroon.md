@@ -2,7 +2,6 @@
 name: Mohammed Haroon Dupty
 image: images/photo.jpg
 role: postdoc
-description: Research Fellow
 links:
   email: haroon@nus.edu.sg
 ---
