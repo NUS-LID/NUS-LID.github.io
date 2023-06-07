@@ -2,8 +2,6 @@
 name: Lee Wee Sun
 image: images/photo.jpg
 role: pi
-aliases:
-  - 
 links:
   home-page: https://comp.nus.edu.sg/~leews
 ---
