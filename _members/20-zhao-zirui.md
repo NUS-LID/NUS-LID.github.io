@@ -6,4 +6,4 @@ links:
   github: 1989ryan
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Zirui Zhao is a Ph.D. student advised by Prof. <a href="https://comp.nus.edu.sg/~leews">Lee Wee Sun</a>. He also works closely with Prof. <a href="https://comp.nus.edu.sg/~dyhsu">David Hsu</a>. He is interested in human-robot interactions via natural language.
