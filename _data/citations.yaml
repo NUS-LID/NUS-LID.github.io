@@ -655,19 +655,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
-  title: 'Act to see and see to act: POMDP planning for objects search in clutter'
-  authors:
-  - JK Li
-  - D Hsu
-  - WS Lee
-  publisher: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems\
-    \ \u2026, 2016"
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2TuIPqOg0e0C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:dHRcJqc9SEQC
   title: Adaptive semi-supervised learning for cross-domain sentiment classification
   authors:
@@ -678,6 +665,19 @@
   publisher: arXiv preprint arXiv:1809.00530, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dHRcJqc9SEQC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
+  title: 'Act to see and see to act: POMDP planning for objects search in clutter'
+  authors:
+  - JK Li
+  - D Hsu
+  - WS Lee
+  publisher: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems\
+    \ \u2026, 2016"
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2TuIPqOg0e0C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1487,6 +1487,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:hXZnTIgIr50C
+  title: Intention-aware motion planning
+  authors:
+  - WK Sung
+  - F Emilio
+  - H David
+  - LW Sun
+  publisher: Workshop on the Algorithmic Foundations of Robotics, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hXZnTIgIr50C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:j3f4tGmQtD8C
   title: Cooled and relaxed survey propagation for MRFs
   authors:
@@ -1549,19 +1562,6 @@
     2016
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:peNFRSk4lDYC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:hXZnTIgIr50C
-  title: Intention-aware motion planning
-  authors:
-  - WK Sung
-  - F Emilio
-  - H David
-  - LW Sun
-  publisher: Workshop on the Algorithmic Foundations of Robotics, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hXZnTIgIr50C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
