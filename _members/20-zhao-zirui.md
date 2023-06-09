@@ -1,6 +1,6 @@
 ---
 name: Zhao Zirui
-image: images/photo.jpg
+image: images/zirui.jpeg
 role: phd
 links:
   github: 1989ryan
