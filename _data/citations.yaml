@@ -980,6 +980,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:6YFk0eKgftsC
+  title: Contrastive variational reinforcement learning for complex observations
+  authors:
+  - X Ma
+  - S Chen
+  - D Hsu
+  - WS Lee
+  publisher: Conference on Robot Learning, 959-972, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:6YFk0eKgftsC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:5nxA0vEk-isC
   title: A Language Modeling Approach to Passage Question Answering.
   authors:
@@ -1001,19 +1014,6 @@
     \ theory \u2026, 1995"
   date: '1995-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4TOpqqG69KYC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:6YFk0eKgftsC
-  title: Contrastive variational reinforcement learning for complex observations
-  authors:
-  - X Ma
-  - S Chen
-  - D Hsu
-  - WS Lee
-  publisher: Conference on Robot Learning, 959-972, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:6YFk0eKgftsC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1444,9 +1444,8 @@
   authors:
   - X Yin
   - WS Lee
-  publisher: "Information Retrieval Technology: Asia Information Retrieval Symposium,\
-    \ AIRS \u2026, 2005"
-  date: '2005-01-01'
+  publisher: Asia Information Retrieval Symposium, 313-324, 2004
+  date: '2004-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:qUcmZB5y_30C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
