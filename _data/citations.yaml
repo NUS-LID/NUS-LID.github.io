@@ -520,19 +520,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:roLk4NBRz8UC
-  title: Improving word sense disambiguation using topic features
-  authors:
-  - JF Cai
-  - WS Lee
-  - YW Teh
-  publisher: "Proceedings of the 2007 joint conference on empirical methods in natural\
-    \ \u2026, 2007"
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:roLk4NBRz8UC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:rKYHOwt5kWwC
   title: Understanding and resolving performance degradation in deep graph convolutional
     networks
@@ -548,6 +535,19 @@
     \ \u2026, 2021"
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:rKYHOwt5kWwC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:roLk4NBRz8UC
+  title: Improving word sense disambiguation using topic features
+  authors:
+  - JF Cai
+  - WS Lee
+  - YW Teh
+  publisher: "Proceedings of the 2007 joint conference on empirical methods in natural\
+    \ \u2026, 2007"
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:roLk4NBRz8UC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -628,6 +628,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
+  title: 'Act to see and see to act: POMDP planning for objects search in clutter'
+  authors:
+  - JK Li
+  - D Hsu
+  - WS Lee
+  publisher: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems\
+    \ \u2026, 2016"
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2TuIPqOg0e0C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:bEWYMUwI8FkC
   title: Conditional Random Fields with High-Order Features for Sequence Labeling
   authors:
@@ -665,19 +678,6 @@
   publisher: arXiv preprint arXiv:1809.00530, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dHRcJqc9SEQC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
-  title: 'Act to see and see to act: POMDP planning for objects search in clutter'
-  authors:
-  - JK Li
-  - D Hsu
-  - WS Lee
-  publisher: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems\
-    \ \u2026, 2016"
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2TuIPqOg0e0C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
