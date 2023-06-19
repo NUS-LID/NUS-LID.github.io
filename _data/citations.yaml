@@ -564,17 +564,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:qxL8FJ1GzNcC
-  title: Hyperparameter learning for graph based semi-supervised learning algorithms
-  authors:
-  - X Zhang
-  - W Lee
-  publisher: Advances in neural information processing systems 19, 2006
-  date: '2006-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:qxL8FJ1GzNcC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:cxS_fjKIGZMC
   title: A reinforcement learning approach for optimizing multiple traveling salesman
     problems over graphs
@@ -585,6 +574,17 @@
   publisher: Knowledge-Based Systems 204, 106244, 2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:cxS_fjKIGZMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:qxL8FJ1GzNcC
+  title: Hyperparameter learning for graph based semi-supervised learning algorithms
+  authors:
+  - X Zhang
+  - W Lee
+  publisher: Advances in neural information processing systems 19, 2006
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:qxL8FJ1GzNcC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -628,6 +628,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:dHRcJqc9SEQC
+  title: Adaptive semi-supervised learning for cross-domain sentiment classification
+  authors:
+  - R He
+  - WS Lee
+  - HT Ng
+  - D Dahlmeier
+  publisher: arXiv preprint arXiv:1809.00530, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dHRcJqc9SEQC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
   title: 'Act to see and see to act: POMDP planning for objects search in clutter'
   authors:
@@ -665,19 +678,6 @@
     \ \u2026, 2007"
   date: '2007-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:5Ul4iDaHHb8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:dHRcJqc9SEQC
-  title: Adaptive semi-supervised learning for cross-domain sentiment classification
-  authors:
-  - R He
-  - WS Lee
-  - HT Ng
-  - D Dahlmeier
-  publisher: arXiv preprint arXiv:1809.00530, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dHRcJqc9SEQC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1403,6 +1403,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:dBzKUGQurMsC
+  title: Integrating algorithmic planning and deep learning for partially observable
+    navigation
+  authors:
+  - P Karkus
+  - D Hsu
+  - WS Lee
+  publisher: arXiv preprint arXiv:1807.06696, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dBzKUGQurMsC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:gYnLYBw1zZMC
   title: Tensor belief propagation
   authors:
@@ -1423,19 +1436,6 @@
   publisher: J. Digit. Inf. Manag. 7 (4), 202-210, 2009
   date: '2009-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:vV6vV6tmYwMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:dBzKUGQurMsC
-  title: Integrating algorithmic planning and deep learning for partially observable
-    navigation
-  authors:
-  - P Karkus
-  - D Hsu
-  - WS Lee
-  publisher: arXiv preprint arXiv:1807.06696, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dBzKUGQurMsC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
