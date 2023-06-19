@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Current Team Members
 
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: ra" %}
+{% include list.html data="members" component="portrait" filters="role: research_assistant" %}
 {% include list.html data="members" component="portrait" filters="role: msc" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
