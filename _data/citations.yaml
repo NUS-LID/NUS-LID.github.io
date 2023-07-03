@@ -1052,6 +1052,32 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:pfJNqKtVkuoC
+  title: Learning latent graph dynamics for deformable object manipulation
+  authors:
+  - X Ma
+  - D Hsu
+  - WS Lee
+  publisher: arXiv preprint arXiv:2104.12149 2, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:pfJNqKtVkuoC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:e-nnqdki048C
+  title: 'Lets-drive: Driving in a crowd by learning from tree search'
+  authors:
+  - P Cai
+  - Y Luo
+  - A Saxena
+  - D Hsu
+  - WS Lee
+  publisher: RSS 2019, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:e-nnqdki048C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:eJXPG6dFmWUC
   title: Planning how to learn
   authors:
@@ -1089,32 +1115,6 @@
   publisher: Neural Computation 7 (5), 1040-1053, 1995
   date: '1995-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4DMP91E08xMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:pfJNqKtVkuoC
-  title: Learning latent graph dynamics for deformable object manipulation
-  authors:
-  - X Ma
-  - D Hsu
-  - WS Lee
-  publisher: arXiv preprint arXiv:2104.12149 2, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:pfJNqKtVkuoC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:e-nnqdki048C
-  title: 'Lets-drive: Driving in a crowd by learning from tree search'
-  authors:
-  - P Cai
-  - Y Luo
-  - A Saxena
-  - D Hsu
-  - WS Lee
-  publisher: RSS 2019, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:e-nnqdki048C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
