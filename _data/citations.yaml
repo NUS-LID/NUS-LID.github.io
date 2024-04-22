@@ -66,18 +66,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:zYLM7Y9cAGgC
-  title: Learning with positive and unlabeled examples using weighted logistic regression
-  authors:
-  - WS Lee
-  - B Liu
-  publisher: MACHINE LEARNING-INTERNATIONAL WORKSHOP THEN CONFERENCE- 20 (1), 448,
-    2003
-  date: '2003-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:zYLM7Y9cAGgC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:zaHkCSmj5XkC
   title: 'DESPOT: Online POMDP planning with regularization'
   authors:
@@ -91,16 +79,15 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:UebtZRa9Y70C
-  title: Planning under uncertainty for robotic tasks with mixed observability
+- id: 8PCrLgwAAAAJ:zYLM7Y9cAGgC
+  title: Learning with positive and unlabeled examples using weighted logistic regression
   authors:
-  - SCW Ong
-  - SW Png
-  - D Hsu
   - WS Lee
-  publisher: The International Journal of Robotics Research 29 (8), 1053, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:UebtZRa9Y70C
+  - B Liu
+  publisher: MACHINE LEARNING-INTERNATIONAL WORKSHOP THEN CONFERENCE- 20 (1), 448,
+    2003
+  date: '2003-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:zYLM7Y9cAGgC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -133,19 +120,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:IjCSPb-OGe4C
-  title: Text classification by labeling words
-  authors:
-  - B Liu
-  - X Li
-  - WS Lee
-  - PS Yu
-  publisher: Aaai 4, 425-430, 2004
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:IjCSPb-OGe4C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:TiLqlu47W2oC
   title: Convolutional sequence to sequence model for human dynamics
   authors:
@@ -160,19 +134,16 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:vRqMK49ujn8C
-  title: Intention-aware motion planning
+- id: 8PCrLgwAAAAJ:UebtZRa9Y70C
+  title: Planning under uncertainty for robotic tasks with mixed observability
   authors:
-  - T Bandyopadhyay
-  - KS Won
-  - E Frazzoli
+  - SCW Ong
+  - SW Png
   - D Hsu
   - WS Lee
-  - D Rus
-  publisher: "Algorithmic Foundations of Robotics X: Proceedings of the Tenth Workshop\
-    \ on \u2026, 2013"
-  date: '2013-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:vRqMK49ujn8C
+  publisher: The International Journal of Robotics Research 29 (8), 1053, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:UebtZRa9Y70C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -204,15 +175,32 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:2osOgNQ5qMEC
-  title: Efficient agnostic learning of neural networks with bounded fan-in
+- id: 8PCrLgwAAAAJ:vRqMK49ujn8C
+  title: Intention-aware motion planning
   authors:
+  - T Bandyopadhyay
+  - KS Won
+  - E Frazzoli
+  - D Hsu
   - WS Lee
-  - PL Bartlett
-  - RC Williamson
-  publisher: Information Theory, IEEE Transactions on 42 (6), 2118-2132, 1996
-  date: '1996-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2osOgNQ5qMEC
+  - D Rus
+  publisher: "Algorithmic Foundations of Robotics X: Proceedings of the Tenth Workshop\
+    \ on \u2026, 2013"
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:vRqMK49ujn8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:IjCSPb-OGe4C
+  title: Text classification by labeling words
+  authors:
+  - B Liu
+  - X Li
+  - WS Lee
+  - PS Yu
+  publisher: Aaai 4, 425-430, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:IjCSPb-OGe4C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -229,19 +217,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:cAWJABFkdiUC
-  title: 'Optimizing F-measure: A tale of two approaches'
-  authors:
-  - Y Nan
-  - KM Chai
-  - WS Lee
-  - HL Chieu
-  publisher: arXiv preprint arXiv:1206.4625, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:cAWJABFkdiUC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:Q17yWvk9gpwC
   title: Exploiting document knowledge for aspect-level sentiment classification
   authors:
@@ -252,6 +227,18 @@
   publisher: arXiv preprint arXiv:1806.04346, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:Q17yWvk9gpwC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:2osOgNQ5qMEC
+  title: Efficient agnostic learning of neural networks with bounded fan-in
+  authors:
+  - WS Lee
+  - PL Bartlett
+  - RC Williamson
+  publisher: Information Theory, IEEE Transactions on 42 (6), 2118-2132, 1996
+  date: '1996-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2osOgNQ5qMEC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -267,6 +254,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:cAWJABFkdiUC
+  title: 'Optimizing F-measure: A tale of two approaches'
+  authors:
+  - Y Nan
+  - KM Chai
+  - WS Lee
+  - HL Chieu
+  publisher: arXiv preprint arXiv:1206.4625, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:cAWJABFkdiUC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:M3ejUd6NZC8C
   title: Motion planning under uncertainty for robotic tasks with long time horizons
   authors:
@@ -277,6 +277,21 @@
   publisher: The International Journal of Robotics Research 30 (3), 308, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:M3ejUd6NZC8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:QZWLLlSfqgYC
+  title: 'Porca: Modeling and planning for autonomous driving among many pedestrians'
+  authors:
+  - Y Luo
+  - P Cai
+  - A Bera
+  - D Hsu
+  - WS Lee
+  - D Manocha
+  publisher: IEEE Robotics and Automation Letters 3 (4), 3418-3425, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:QZWLLlSfqgYC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -304,21 +319,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:QZWLLlSfqgYC
-  title: 'Porca: Modeling and planning for autonomous driving among many pedestrians'
-  authors:
-  - Y Luo
-  - P Cai
-  - A Bera
-  - D Hsu
-  - WS Lee
-  - D Manocha
-  publisher: IEEE Robotics and Automation Letters 3 (4), 3418-3425, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:QZWLLlSfqgYC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:n1qY4L4uFdgC
   title: 'Integrated perception and planning in the continuous space: A POMDP approach'
   authors:
@@ -328,6 +328,19 @@
   publisher: The International Journal of Robotics Research 33 (9), 1288-1302, 2014
   date: '2014-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:n1qY4L4uFdgC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:fhZv66dCuXAC
+  title: POMDPs for robotic tasks with mixed observability
+  authors:
+  - SCW Ong
+  - SW Png
+  - D Hsu
+  - WS Lee
+  publisher: ''
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:fhZv66dCuXAC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -396,6 +409,36 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:rKYHOwt5kWwC
+  title: Understanding and resolving performance degradation in deep graph convolutional
+    networks
+  authors:
+  - K Zhou
+  - Y Dong
+  - K Wang
+  - WS Lee
+  - B Hooi
+  - H Xu
+  - J Feng
+  publisher: "Proceedings of the 30th ACM International Conference on Information\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:rKYHOwt5kWwC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:C-SEpTPhZ1wC
+  title: Particle filter networks with application to visual localization
+  authors:
+  - P Karkus
+  - D Hsu
+  - WS Lee
+  publisher: Conference on robot learning, 169-178, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:C-SEpTPhZ1wC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:M3NEmzRMIkIC
   title: Unmanned Aircraft Collision Avoidance using Continuous-State POMDPs
   authors:
@@ -421,6 +464,18 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:YsMSGLbcyi4C
+  title: Learning semantic classes for word sense disambiguation
+  authors:
+  - US Kohomban
+  - WS Lee
+  publisher: "Proceedings of the 43rd Annual Meeting on Association for Computational\
+    \ \u2026, 2005"
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YsMSGLbcyi4C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:8k81kl-MbHgC
   title: A point-based POMDP planner for target tracking
   authors:
@@ -434,27 +489,16 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:YsMSGLbcyi4C
-  title: Learning semantic classes for word sense disambiguation
+- id: 8PCrLgwAAAAJ:cxS_fjKIGZMC
+  title: A reinforcement learning approach for optimizing multiple traveling salesman
+    problems over graphs
   authors:
-  - US Kohomban
+  - Y Hu
+  - Y Yao
   - WS Lee
-  publisher: "Proceedings of the 43rd Annual Meeting on Association for Computational\
-    \ \u2026, 2005"
-  date: '2005-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YsMSGLbcyi4C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:C-SEpTPhZ1wC
-  title: Particle filter networks with application to visual localization
-  authors:
-  - P Karkus
-  - D Hsu
-  - WS Lee
-  publisher: Conference on robot learning, 169-178, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:C-SEpTPhZ1wC
+  publisher: Knowledge-Based Systems 204, 106244, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:cxS_fjKIGZMC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -483,18 +527,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:YOwf2qJgpHMC
-  title: A simple probabilistic approach to learning from positive and unlabeled examples
-  authors:
-  - D Zhang
-  - WS Lee
-  publisher: "Proceedings of the 5th Annual UK Workshop on Computational Intelligence\
-    \ \u2026, 2005"
-  date: '2005-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YOwf2qJgpHMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:0qX8s2k1IRwC
   title: Adaptive Informative Path Planning in Metric Spaces
   authors:
@@ -507,33 +539,40 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:W7OEmFMy1HYC
-  title: Web taxonomy integration using support vector machines
+- id: 8PCrLgwAAAAJ:uQyLbZAWguAC
+  title: Particle filter recurrent neural networks
   authors:
-  - D Zhang
+  - X Ma
+  - P Karkus
+  - D Hsu
   - WS Lee
-  publisher: Proceedings of the 13th international conference on World Wide Web, 472-481,
-    2004
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:W7OEmFMy1HYC
+  publisher: AAAI 2020, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:uQyLbZAWguAC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:rKYHOwt5kWwC
-  title: Understanding and resolving performance degradation in deep graph convolutional
-    networks
+- id: 8PCrLgwAAAAJ:YOwf2qJgpHMC
+  title: A simple probabilistic approach to learning from positive and unlabeled examples
   authors:
-  - K Zhou
-  - Y Dong
-  - K Wang
+  - D Zhang
   - WS Lee
-  - B Hooi
-  - H Xu
-  - J Feng
-  publisher: "Proceedings of the 30th ACM International Conference on Information\
-    \ \u2026, 2021"
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:rKYHOwt5kWwC
+  publisher: "Proceedings of the 5th Annual UK Workshop on Computational Intelligence\
+    \ \u2026, 2005"
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YOwf2qJgpHMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:CB6W3GmKGOEC
+  title: Learning dynamic robot-to-human object handover from human feedback
+  authors:
+  - A Kupcsik
+  - D Hsu
+  - WS Lee
+  publisher: 'Robotics Research: Volume 1, 161-176, 2018'
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:CB6W3GmKGOEC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -551,29 +590,39 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:hqOjcs7Dif8C
-  title: Word sense disambiguation with semi-supervised learning
+- id: 8PCrLgwAAAAJ:W7OEmFMy1HYC
+  title: Web taxonomy integration using support vector machines
   authors:
-  - TP Pham
-  - HT Ng
+  - D Zhang
   - WS Lee
-  publisher: PROCEEDINGS OF THE NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE 20
-    (3), 1093, 2005
-  date: '2005-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hqOjcs7Dif8C
+  publisher: Proceedings of the 13th international conference on World Wide Web, 472-481,
+    2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:W7OEmFMy1HYC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:cxS_fjKIGZMC
-  title: A reinforcement learning approach for optimizing multiple traveling salesman
-    problems over graphs
+- id: 8PCrLgwAAAAJ:u1IMlZnpNFQC
+  title: 'Push-Net: Deep Planar Pushing for Objects with Unknown Physical Properties.'
   authors:
-  - Y Hu
-  - Y Yao
+  - JK Li
   - WS Lee
-  publisher: Knowledge-Based Systems 204, 106244, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:cxS_fjKIGZMC
+  - D Hsu
+  publisher: 'Robotics: Science and Systems 14, 1-9, 2018'
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:u1IMlZnpNFQC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:ocbgtyEEUOwC
+  title: Deep graphical feature learning for the feature matching problem
+  authors:
+  - Z Zhang
+  - WS Lee
+  publisher: "Proceedings of the IEEE/CVF International Conference on Computer Vision\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:ocbgtyEEUOwC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -588,15 +637,70 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:CB6W3GmKGOEC
-  title: Learning dynamic robot-to-human object handover from human feedback
+- id: 8PCrLgwAAAAJ:dHRcJqc9SEQC
+  title: Adaptive semi-supervised learning for cross-domain sentiment classification
   authors:
-  - A Kupcsik
+  - R He
+  - WS Lee
+  - HT Ng
+  - D Dahlmeier
+  publisher: arXiv preprint arXiv:1809.00530, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dHRcJqc9SEQC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
+  title: 'Act to see and see to act: POMDP planning for objects search in clutter'
+  authors:
+  - JK Li
   - D Hsu
   - WS Lee
-  publisher: 'Robotics Research: Volume 1, 161-176, 2018'
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:CB6W3GmKGOEC
+  publisher: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems\
+    \ \u2026, 2016"
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2TuIPqOg0e0C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:hqOjcs7Dif8C
+  title: Word sense disambiguation with semi-supervised learning
+  authors:
+  - TP Pham
+  - HT Ng
+  - WS Lee
+  publisher: PROCEEDINGS OF THE NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE 20
+    (3), 1093, 2005
+  date: '2005-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hqOjcs7Dif8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:ohFW0PAxsewC
+  title: Differentiable algorithm networks for composable robot learning
+  authors:
+  - P Karkus
+  - X Ma
+  - D Hsu
+  - LP Kaelbling
+  - WS Lee
+  - "T Lozano-P\xE9rez"
+  publisher: RSS 2019, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:ohFW0PAxsewC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:YanO1q2l3soC
+  title: Importance sampling for online planning under uncertainty
+  authors:
+  - Y Luo
+  - H Bai
+  - D Hsu
+  - WS Lee
+  publisher: The International Journal of Robotics Research 38 (2-3), 162-181, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YanO1q2l3soC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -628,32 +732,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:dHRcJqc9SEQC
-  title: Adaptive semi-supervised learning for cross-domain sentiment classification
-  authors:
-  - R He
-  - WS Lee
-  - HT Ng
-  - D Dahlmeier
-  publisher: arXiv preprint arXiv:1809.00530, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dHRcJqc9SEQC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:2TuIPqOg0e0C
-  title: 'Act to see and see to act: POMDP planning for objects search in clutter'
-  authors:
-  - JK Li
-  - D Hsu
-  - WS Lee
-  publisher: "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems\
-    \ \u2026, 2016"
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2TuIPqOg0e0C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:yeKNu01O_4gC
   title: POMDP-lite for robust robot planning under uncertainty
   authors:
@@ -682,27 +760,15 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:u1IMlZnpNFQC
-  title: 'Push-Net: Deep Planar Pushing for Objects with Unknown Physical Properties.'
+- id: 8PCrLgwAAAAJ:TuM7UPshZo8C
+  title: 'Despot-alpha: Online pomdp planning with large state and observation spaces.'
   authors:
-  - JK Li
-  - WS Lee
+  - NP Garg
   - D Hsu
-  publisher: 'Robotics: Science and Systems 14, 1-9, 2018'
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:u1IMlZnpNFQC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:ocbgtyEEUOwC
-  title: Deep graphical feature learning for the feature matching problem
-  authors:
-  - Z Zhang
   - WS Lee
-  publisher: "Proceedings of the IEEE/CVF International Conference on Computer Vision\
-    \ \u2026, 2019"
+  publisher: 'Robotics: Science and Systems 3 (3), 3.2, 2019'
   date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:ocbgtyEEUOwC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TuM7UPshZo8C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -720,31 +786,16 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:uQyLbZAWguAC
-  title: Particle filter recurrent neural networks
+- id: 8PCrLgwAAAAJ:z-B63o8J19IC
+  title: 'HyP-DESPOT: A hybrid parallel algorithm for online planning under uncertainty'
   authors:
-  - X Ma
-  - P Karkus
+  - P Cai
+  - Y Luo
   - D Hsu
   - WS Lee
-  publisher: AAAI 2020, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:uQyLbZAWguAC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:ohFW0PAxsewC
-  title: Differentiable algorithm networks for composable robot learning
-  authors:
-  - P Karkus
-  - X Ma
-  - D Hsu
-  - LP Kaelbling
-  - WS Lee
-  - "T Lozano-P\xE9rez"
-  publisher: RSS 2019, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:ohFW0PAxsewC
+  publisher: The International Journal of Robotics Research 40 (2-3), 558-573, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:z-B63o8J19IC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -758,19 +809,6 @@
   publisher: arXiv preprint arXiv:1206.6449, 2012
   date: '2012-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:a0OBvERweLwC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:YanO1q2l3soC
-  title: Importance sampling for online planning under uncertainty
-  authors:
-  - Y Luo
-  - H Bai
-  - D Hsu
-  - WS Lee
-  publisher: The International Journal of Robotics Research 38 (2-3), 162-181, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YanO1q2l3soC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -799,6 +837,18 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:IX653JsL2_EC
+  title: Factor graph neural network
+  authors:
+  - Z Zhang
+  - F Wu
+  - WS Lee
+  publisher: NeurIPS 2020, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:IX653JsL2_EC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:WF5omc3nYNoC
   title: A robust codec for transmission of very low bit-rate video over channels
     with bursty errors
@@ -807,61 +857,10 @@
   - MR Pickering
   - MR Frater
   - JF Arnold
-  publisher: IEEE Transactions on Circuits and systems for video technology 10 (8),
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology 10 (8),
     1403-1412, 2000
   date: '2000-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:WF5omc3nYNoC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:z-B63o8J19IC
-  title: 'HyP-DESPOT: A hybrid parallel algorithm for online planning under uncertainty'
-  authors:
-  - P Cai
-  - Y Luo
-  - D Hsu
-  - WS Lee
-  publisher: The International Journal of Robotics Research 40 (2-3), 558-573, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:z-B63o8J19IC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:TuM7UPshZo8C
-  title: 'Despot-alpha: Online pomdp planning with large state and observation spaces.'
-  authors:
-  - NP Garg
-  - D Hsu
-  - WS Lee
-  publisher: 'Robotics: Science and Systems 3 (3), 3.2, 2019'
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TuM7UPshZo8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:eQOLeE2rZwMC
-  title: Error resilience in video and multiplexing layers for very low bit-rate video
-    coding systems
-  authors:
-  - WS Lee
-  - MR Pickering
-  - MR Frater
-  - JF Arnold
-  publisher: Selected Areas in Communications, IEEE Journal on 15 (9), 1764-1774,
-    1997
-  date: '1997-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:eQOLeE2rZwMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:aqlVkmm33-oC
-  title: A web-based question answering system
-  authors:
-  - D Zhang
-  - WS Lee
-  publisher: ''
-  date: '2003-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:aqlVkmm33-oC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -880,6 +879,32 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:aqlVkmm33-oC
+  title: A web-based question answering system
+  authors:
+  - D Zhang
+  - WS Lee
+  publisher: ''
+  date: '2003-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:aqlVkmm33-oC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:eQOLeE2rZwMC
+  title: Error resilience in video and multiplexing layers for very low bit-rate video
+    coding systems
+  authors:
+  - WS Lee
+  - MR Pickering
+  - MR Frater
+  - JF Arnold
+  publisher: Selected Areas in Communications, IEEE Journal on 15 (9), 1764-1774,
+    1997
+  date: '1997-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:eQOLeE2rZwMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:0EnyYjriUFMC
   title: 'Generalization in decision trees and DNF: Does size matter?'
   authors:
@@ -893,90 +918,15 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:KlAtU1dfN6UC
-  title: 'NUS at DUC 2007: Using evolutionary models of text'
+- id: 8PCrLgwAAAAJ:YiZc1oW-E3oC
+  title: Large language models as commonsense knowledge for large-scale task planning
   authors:
-  - Z Lin
-  - TS Chua
-  - MY Kan
+  - Z Zhao
   - WS Lee
-  - L Qiu
-  - S Ye
-  publisher: Proceedings of Document Understanding Conference (DUC), 2007
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:KlAtU1dfN6UC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:7PzlFSSx8tAC
-  title: Activity recognition from physiological data using conditional random fields
-  authors:
-  - HL Chieu
-  - WS Lee
-  - LP Kaelbling
-  publisher: ''
-  date: '2006-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:7PzlFSSx8tAC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:IX653JsL2_EC
-  title: Factor graph neural network
-  authors:
-  - Z Zhang
-  - F Wu
-  - WS Lee
-  publisher: NeurIPS 2020, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:IX653JsL2_EC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:3fE2CSJIrl8C
-  title: Web taxonomy integration through co-bootstrapping
-  authors:
-  - D Zhang
-  - WS Lee
-  publisher: "Proceedings of the 27th annual international ACM SIGIR Conference on\
-    \ \u2026, 2004"
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:3fE2CSJIrl8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:MXK_kJrjxJIC
-  title: Edge-adaptive prediction for lossless image coding
-  authors:
-  - WS Lee
-  publisher: Data Compression Conference, 1999. Proceedings. DCC'99, 483-490, 1999
-  date: '1999-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:MXK_kJrjxJIC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:6YFk0eKgftsC
-  title: Contrastive variational reinforcement learning for complex observations
-  authors:
-  - X Ma
-  - S Chen
   - D Hsu
-  - WS Lee
-  publisher: Conference on Robot Learning, 959-972, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:6YFk0eKgftsC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:QIV2ME_5wuYC
-  title: Semi-supervised text classification using partitioned EM
-  authors:
-  - G Cong
-  - W Lee
-  - H Wu
-  - B Liu
-  publisher: Database Systems for Advanced Applications, 229-239, 2004
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:QIV2ME_5wuYC
+  publisher: Advances in Neural Information Processing Systems 36, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YiZc1oW-E3oC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -995,60 +945,78 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:i6LplTXqhpIC
-  title: Near-optimal adaptive pool-based active learning with general loss
+- id: 8PCrLgwAAAAJ:6YFk0eKgftsC
+  title: Contrastive variational reinforcement learning for complex observations
   authors:
-  - NV Cuong
+  - X Ma
+  - S Chen
+  - D Hsu
   - WS Lee
-  - N Ye
-  publisher: UAI, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:i6LplTXqhpIC
+  publisher: Conference on Robot Learning, 959-972, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:6YFk0eKgftsC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:5nxA0vEk-isC
-  title: A Language Modeling Approach to Passage Question Answering.
+- id: 8PCrLgwAAAAJ:KlAtU1dfN6UC
+  title: 'NUS at DUC 2007: Using evolutionary models of text'
   authors:
-  - D Zhang
+  - Z Lin
+  - TS Chua
+  - MY Kan
   - WS Lee
-  publisher: TREC, 489-495, 2003
-  date: '2003-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:5nxA0vEk-isC
+  - L Qiu
+  - S Ye
+  publisher: Proceedings of Document Understanding Conference (DUC), 2007
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:KlAtU1dfN6UC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:Zph67rFs4hoC
-  title: Learning to integrate web taxonomies
+- id: 8PCrLgwAAAAJ:E10ZYwHxBI8C
+  title: 'Gamma: A general agent motion model for autonomous driving'
+  authors:
+  - Y Luo
+  - P Cai
+  - Y Lee
+  - D Hsu
+  publisher: IEEE Robotics and Automation Letters 7 (2), 3499-3506, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:E10ZYwHxBI8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:7PzlFSSx8tAC
+  title: Activity recognition from physiological data using conditional random fields
+  authors:
+  - HL Chieu
+  - WS Lee
+  - LP Kaelbling
+  publisher: ''
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:7PzlFSSx8tAC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:MXK_kJrjxJIC
+  title: Edge-adaptive prediction for lossless image coding
+  authors:
+  - WS Lee
+  publisher: Data Compression Conference, 1999. Proceedings. DCC'99, 483-490, 1999
+  date: '1999-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:MXK_kJrjxJIC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:3fE2CSJIrl8C
+  title: Web taxonomy integration through co-bootstrapping
   authors:
   - D Zhang
   - WS Lee
-  publisher: Journal of Web Semantics 2 (2), 131-151, 2004
+  publisher: "Proceedings of the 27th annual international ACM SIGIR Conference on\
+    \ \u2026, 2004"
   date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:Zph67rFs4hoC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:Wp0gIr-vW9MC
-  title: Online clustering for collaborative filtering
-  authors:
-  - WS Lee
-  publisher: ; TRA8/00, 2000
-  date: '2000-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:Wp0gIr-vW9MC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:4TOpqqG69KYC
-  title: On efficient agnostic learning of linear combinations of basis functions
-  authors:
-  - WS Lee
-  - PL Bartlett
-  - RC Williamson
-  publisher: "Proceedings of the eighth annual conference on Computational learning\
-    \ theory \u2026, 1995"
-  date: '1995-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4TOpqqG69KYC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:3fE2CSJIrl8C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1064,6 +1032,31 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:i6LplTXqhpIC
+  title: Near-optimal adaptive pool-based active learning with general loss
+  authors:
+  - NV Cuong
+  - WS Lee
+  - N Ye
+  publisher: UAI, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:i6LplTXqhpIC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:QIV2ME_5wuYC
+  title: Semi-supervised text classification using partitioned EM
+  authors:
+  - G Cong
+  - W Lee
+  - H Wu
+  - B Liu
+  publisher: Database Systems for Advanced Applications, 229-239, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:QIV2ME_5wuYC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:e-nnqdki048C
   title: 'Lets-drive: Driving in a crowd by learning from tree search'
   authors:
@@ -1075,6 +1068,19 @@
   publisher: RSS 2019, 2019
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:e-nnqdki048C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:4TOpqqG69KYC
+  title: On efficient agnostic learning of linear combinations of basis functions
+  authors:
+  - WS Lee
+  - PL Bartlett
+  - RC Williamson
+  publisher: "Proceedings of the eighth annual conference on Computational learning\
+    \ theory \u2026, 1995"
+  date: '1995-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4TOpqqG69KYC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1106,6 +1112,28 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:Zph67rFs4hoC
+  title: Learning to integrate web taxonomies
+  authors:
+  - D Zhang
+  - WS Lee
+  publisher: Journal of Web Semantics 2 (2), 131-151, 2004
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:Zph67rFs4hoC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:5nxA0vEk-isC
+  title: A Language Modeling Approach to Passage Question Answering.
+  authors:
+  - D Zhang
+  - WS Lee
+  publisher: TREC, 489-495, 2003
+  date: '2003-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:5nxA0vEk-isC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:4DMP91E08xMC
   title: Lower bounds on the VC dimension of smoothly parameterized function classes
   authors:
@@ -1115,6 +1143,16 @@
   publisher: Neural Computation 7 (5), 1040-1053, 1995
   date: '1995-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4DMP91E08xMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:Wp0gIr-vW9MC
+  title: Online clustering for collaborative filtering
+  authors:
+  - WS Lee
+  publisher: ; TRA8/00, 2000
+  date: '2000-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:Wp0gIr-vW9MC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1129,19 +1167,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:E10ZYwHxBI8C
-  title: 'Gamma: A general agent motion model for autonomous driving'
-  authors:
-  - Y Luo
-  - P Cai
-  - Y Lee
-  - D Hsu
-  publisher: IEEE Robotics and Automation Letters 7 (2), 3499-3506, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:E10ZYwHxBI8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:hC7cP41nSMkC
   title: Understanding the function of web elements for mobile content delivery using
     random walk models
@@ -1152,43 +1177,6 @@
     \ on \u2026, 2005"
   date: '2005-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hC7cP41nSMkC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:IWHjjKOFINEC
-  title: Error concealment in video coding of arbitrarily shaped objects
-  authors:
-  - MR Frater
-  - WS Lee
-  - M Pickering
-  - JF Arnold
-  publisher: 'Signal Processing: Image Communication 15 (7), 631-641, 2000'
-  date: '2000-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:IWHjjKOFINEC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:FtNbRaqWXr4C
-  title: Covering number for efficient heuristic-based POMDP planning
-  authors:
-  - Z Zhang
-  - D Hsu
-  - WS Lee
-  publisher: International conference on machine learning, 28-36, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:FtNbRaqWXr4C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:mVmsd5A6BfQC
-  title: A theoretical analysis of query selection for collaborative filtering
-  authors:
-  - S Dasgupta
-  - WS Lee
-  - PM Long
-  publisher: Machine Learning 51, 283-298, 2003
-  date: '2003-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:mVmsd5A6BfQC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1208,6 +1196,19 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:IWHjjKOFINEC
+  title: Error concealment in video coding of arbitrarily shaped objects
+  authors:
+  - MR Frater
+  - WS Lee
+  - M Pickering
+  - JF Arnold
+  publisher: 'Signal Processing: Image Communication 15 (7), 631-641, 2000'
+  date: '2000-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:IWHjjKOFINEC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:ddB7do2jUx8C
   title: Learning to grasp under uncertainty using POMDPs
   authors:
@@ -1221,15 +1222,15 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:YFjsv_pBGBYC
-  title: 'Learning classifiers without negative examples: A reduction approach'
+- id: 8PCrLgwAAAAJ:FtNbRaqWXr4C
+  title: Covering number for efficient heuristic-based POMDP planning
   authors:
-  - D Zhang
+  - Z Zhang
+  - D Hsu
   - WS Lee
-  publisher: "Digital Information Management, 2008. ICDIM 2008. Third International\
-    \ \u2026, 2008"
-  date: '2008-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YFjsv_pBGBYC
+  publisher: International conference on machine learning, 28-36, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:FtNbRaqWXr4C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1245,18 +1246,28 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:_u2aKJ9e-CoC
-  title: Scholarly document information extraction using extensible features for efficient
-    higher order semi-CRFs
+- id: 8PCrLgwAAAAJ:mVmsd5A6BfQC
+  title: A theoretical analysis of query selection for collaborative filtering
   authors:
-  - NV Cuong
-  - MK Chandrasekaran
-  - MY Kan
+  - S Dasgupta
   - WS Lee
-  publisher: Proceedings of the 15th ACM/IEEE-CS joint conference on digital libraries,
-    61-64, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:_u2aKJ9e-CoC
+  - PM Long
+  publisher: Machine Learning 51 (3), 283-298, 2003
+  date: '2003-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:mVmsd5A6BfQC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:EVKlETVVbN8C
+  title: Learning latent graph dynamics for visual manipulation of deformable objects
+  authors:
+  - X Ma
+  - D Hsu
+  - WS Lee
+  publisher: 2022 International Conference on Robotics and Automation (ICRA), 8266-8273,
+    2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:EVKlETVVbN8C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1276,6 +1287,47 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:YFjsv_pBGBYC
+  title: 'Learning classifiers without negative examples: A reduction approach'
+  authors:
+  - D Zhang
+  - WS Lee
+  publisher: "Digital Information Management, 2008. ICDIM 2008. Third International\
+    \ \u2026, 2008"
+  date: '2008-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YFjsv_pBGBYC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:_u2aKJ9e-CoC
+  title: Scholarly document information extraction using extensible features for efficient
+    higher order semi-CRFs
+  authors:
+  - NV Cuong
+  - MK Chandrasekaran
+  - MY Kan
+  - WS Lee
+  publisher: Proceedings of the 15th ACM/IEEE-CS joint conference on digital libraries,
+    61-64, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:_u2aKJ9e-CoC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:PQ6BjWB6CiEC
+  title: 'Ai-lyricist: Generating music and vocabulary constrained lyrics'
+  authors:
+  - X Ma
+  - Y Wang
+  - MY Kan
+  - WS Lee
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia, 1002-1011,
+    2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:PQ6BjWB6CiEC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:blknAaTinKkC
   title: Semi-Markov Conditional Random Field with High-Order Features
   authors:
@@ -1287,20 +1339,7 @@
   - ORG SG
   publisher: ''
   date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:blknAaTinKkC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:TQgYirikUcIC
-  title: Optimizing classifier performance in word sense disambiguation by redefining
-    word sense classes
-  authors:
-  - US Kohomban
-  - WS Lee
-  publisher: "Proceedings of the International Joint Conference on Artificial Intelligence\
-    \ \u2026, 2007"
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TQgYirikUcIC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:blknAaTinKkC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1313,6 +1352,29 @@
   publisher: Advances in Neural Information Processing Systems 28, 2015
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:tBp-nognM3UC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:L8Ckcad2t8MC
+  title: Agnostic learning and single hidden layer neural networks
+  authors:
+  - WS Lee
+  publisher: Australian National University, 1996
+  date: '1996-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:L8Ckcad2t8MC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:TQgYirikUcIC
+  title: Optimizing classifier performance in word sense disambiguation by redefining
+    word sense classes
+  authors:
+  - US Kohomban
+  - WS Lee
+  publisher: "Proceedings of the International Joint Conference on Artificial Intelligence\
+    \ \u2026, 2007"
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TQgYirikUcIC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1331,16 +1393,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:L8Ckcad2t8MC
-  title: Agnostic learning and single hidden layer neural networks
-  authors:
-  - WS Lee
-  publisher: Australian National University, 1996
-  date: '1996-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:L8Ckcad2t8MC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:hFOr9nPyWt4C
   title: Validating co-training models for web image classification
   authors:
@@ -1349,6 +1401,21 @@
   publisher: ''
   date: '2005-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hFOr9nPyWt4C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:FepLwMwnKBMC
+  title: Combining reinforcement learning and optimal transport for the traveling
+    salesman problem
+  authors:
+  - YL Goh
+  - WS Lee
+  - X Bresson
+  - T Laurent
+  - N Lim
+  publisher: arXiv preprint arXiv:2203.00903, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:FepLwMwnKBMC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1361,6 +1428,54 @@
   publisher: International Conference on Machine Learning, 3771-3779, 2017
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:gYnLYBw1zZMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:F0CZgh39Fi0C
+  title: None class ranking loss for document-level relation extraction
+  authors:
+  - Y Zhou
+  - WS Lee
+  publisher: arXiv preprint arXiv:2205.00476, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:F0CZgh39Fi0C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:fMcxjvj1mj8C
+  title: 'PF-GNN: Differentiable particle filtering based approximation of universal
+    graph representations'
+  authors:
+  - MH Dupty
+  - Y Dong
+  - WS Lee
+  publisher: International Conference on Learning Representations, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:fMcxjvj1mj8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:dBzKUGQurMsC
+  title: Integrating algorithmic planning and deep learning for partially observable
+    navigation
+  authors:
+  - P Karkus
+  - D Hsu
+  - WS Lee
+  publisher: arXiv preprint arXiv:1807.06696, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dBzKUGQurMsC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:vV6vV6tmYwMC
+  title: Query-By-Multiple-Examples using Support Vector Machines.
+  authors:
+  - D Zhang
+  - WS Lee
+  publisher: J. Digit. Inf. Manag. 7 (4), 202-210, 2009
+  date: '2009-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:vV6vV6tmYwMC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1389,43 +1504,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:EVKlETVVbN8C
-  title: Learning latent graph dynamics for visual manipulation of deformable objects
-  authors:
-  - X Ma
-  - D Hsu
-  - WS Lee
-  publisher: 2022 International Conference on Robotics and Automation (ICRA), 8266-8273,
-    2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:EVKlETVVbN8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:dBzKUGQurMsC
-  title: Integrating algorithmic planning and deep learning for partially observable
-    navigation
-  authors:
-  - P Karkus
-  - D Hsu
-  - WS Lee
-  publisher: arXiv preprint arXiv:1807.06696, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dBzKUGQurMsC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:vV6vV6tmYwMC
-  title: Query-By-Multiple-Examples using Support Vector Machines.
-  authors:
-  - D Zhang
-  - WS Lee
-  publisher: J. Digit. Inf. Manag. 7 (4), 202-210, 2009
-  date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:vV6vV6tmYwMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:qUcmZB5y_30C
   title: Towards understanding the functions of web element
   authors:
@@ -1444,161 +1522,6 @@
   publisher: IEEE Transactions on Information Theory 46 (5), 1789-1799, 2000
   date: '2000-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:mB3voiENLucC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:2u1QkWOsl3MC
-  title: 'POMDP to the rescue: Boosting performance for RoboCup rescue'
-  authors:
-  - K Wu
-  - WS Lee
-  - D Hsu
-  publisher: "2015 IEEE/RSJ International Conference on Intelligent Robots and Systems\
-    \ \u2026, 2015"
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2u1QkWOsl3MC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:eMMeJKvmdy0C
-  title: Learning with invariance via linear functionals on reproducing kernel hilbert
-    space
-  authors:
-  - X Zhang
-  - WS Lee
-  - YW Teh
-  publisher: Advances in Neural Information Processing Systems 26, 2013
-  date: '2013-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:eMMeJKvmdy0C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:hXZnTIgIr50C
-  title: Intention-aware motion planning
-  authors:
-  - WK Sung
-  - F Emilio
-  - H David
-  - LW Sun
-  - R Daniela
-  publisher: Workshop on the Algorithmic Foundations of Robotics, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hXZnTIgIr50C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:j3f4tGmQtD8C
-  title: Cooled and relaxed survey propagation for MRFs
-  authors:
-  - HL Chieu
-  - WS Lee
-  - YW Teh
-  publisher: "22nd Conf. on Neural Information Processing Systems (NIPS\u201907),\
-    \ Vancouver, Canada, 2007"
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:j3f4tGmQtD8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:TFP_iSt0sucC
-  title: Properties of forward pruning in game-tree search
-  authors:
-  - YJ Lim
-  - WS Lee
-  publisher: Proceedings of the National Conference on Artificial Intelligence 21
-    (2), 1020, 2006
-  date: '2006-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TFP_iSt0sucC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:PQ6BjWB6CiEC
-  title: 'Ai-lyricist: Generating music and vocabulary constrained lyrics'
-  authors:
-  - X Ma
-  - Y Wang
-  - MY Kan
-  - WS Lee
-  publisher: Proceedings of the 29th ACM International Conference on Multimedia, 1002-1011,
-    2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:PQ6BjWB6CiEC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:peNFRSk4lDYC
-  title: Robustness of Bayesian pool-based active learning against prior misspecification
-  authors:
-  - N Cuong
-  - N Ye
-  - W Lee
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence 30 (1),
-    2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:peNFRSk4lDYC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:f2IySw72cVMC
-  title: Bootstrapping Monte Carlo tree search with an imperfect heuristic
-  authors:
-  - THD Nguyen
-  - WS Lee
-  - TY Leong
-  publisher: "Machine Learning and Knowledge Discovery in Databases: European Conference\
-    \ \u2026, 2012"
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:f2IySw72cVMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:O3NaXMp0MMsC
-  title: Abnormality Detection in Retinal Images
-  authors:
-  - X Yu
-  - W Hsu
-  - WS Lee
-  - "T Lozano-P\xE9rez"
-  publisher: ''
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:O3NaXMp0MMsC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:-f6ydRqryjwC
-  title: "Correction to \u201CLower bounds on VC-dimension of smoothly parameterized\
-    \ function classes\u201D"
-  authors:
-  - WS Lee
-  - PL Bartlett
-  - RC Williamson
-  publisher: Neural computation 9 (4), 765-769, 1997
-  date: '1997-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:-f6ydRqryjwC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:F0CZgh39Fi0C
-  title: None class ranking loss for document-level relation extraction
-  authors:
-  - Y Zhou
-  - WS Lee
-  publisher: arXiv preprint arXiv:2205.00476, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:F0CZgh39Fi0C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:fMcxjvj1mj8C
-  title: 'PF-GNN: Differentiable particle filtering based approximation of universal
-    graph representations'
-  authors:
-  - MH Dupty
-  - Y Dong
-  - WS Lee
-  publisher: International Conference on Learning Representations, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:fMcxjvj1mj8C
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1622,6 +1545,175 @@
   publisher: AAAI 2020, 2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:rwEhk56xNqMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:peNFRSk4lDYC
+  title: Robustness of Bayesian pool-based active learning against prior misspecification
+  authors:
+  - N Cuong
+  - N Ye
+  - W Lee
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence 30 (1),
+    2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:peNFRSk4lDYC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:eMMeJKvmdy0C
+  title: Learning with invariance via linear functionals on reproducing kernel hilbert
+    space
+  authors:
+  - X Zhang
+  - WS Lee
+  - YW Teh
+  publisher: Advances in Neural Information Processing Systems 26, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:eMMeJKvmdy0C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:TFP_iSt0sucC
+  title: Properties of forward pruning in game-tree search
+  authors:
+  - YJ Lim
+  - WS Lee
+  publisher: Proceedings of the National Conference on Artificial Intelligence 21
+    (2), 1020, 2006
+  date: '2006-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TFP_iSt0sucC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:f2IySw72cVMC
+  title: Bootstrapping Monte Carlo tree search with an imperfect heuristic
+  authors:
+  - THD Nguyen
+  - WS Lee
+  - TY Leong
+  publisher: "Machine Learning and Knowledge Discovery in Databases: European Conference\
+    \ \u2026, 2012"
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:f2IySw72cVMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:j3f4tGmQtD8C
+  title: Cooled and relaxed survey propagation for MRFs
+  authors:
+  - HL Chieu
+  - WS Lee
+  - YW Teh
+  publisher: "22nd Conf. on Neural Information Processing Systems (NIPS\u201907),\
+    \ Vancouver, Canada, 2007"
+  date: '2007-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:j3f4tGmQtD8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:TEVcCiyi8yIC
+  title: Neuralizing efficient higher-order belief propagation
+  authors:
+  - MH Dupty
+  - WS Lee
+  publisher: arXiv preprint arXiv:2010.09283, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TEVcCiyi8yIC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:b2kfBsK7yCQC
+  title: 'Particle filter networks: End-to-end probabilistic localization from visual
+    observations'
+  authors:
+  - P Karkus
+  - D Hsu
+  - WS Lee
+  publisher: arXiv preprint arXiv:1805.08975, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:b2kfBsK7yCQC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:2u1QkWOsl3MC
+  title: 'POMDP to the rescue: Boosting performance for RoboCup rescue'
+  authors:
+  - K Wu
+  - WS Lee
+  - D Hsu
+  publisher: "2015 IEEE/RSJ International Conference on Intelligent Robots and Systems\
+    \ \u2026, 2015"
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:2u1QkWOsl3MC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:O3NaXMp0MMsC
+  title: Abnormality Detection in Retinal Images
+  authors:
+  - X Yu
+  - W Hsu
+  - WS Lee
+  - "T Lozano-P\xE9rez"
+  publisher: ''
+  date: '2004-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:O3NaXMp0MMsC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:4JMBOYKVnBMC
+  title: Spatial temporal concealment of lost blocks in coded video
+  authors:
+  - WS Lee
+  - MR Frater
+  - MR Pickering
+  - JE Arnold
+  publisher: "Image Processing, 1998. ICIP 98. Proceedings. 1998 International Conference\
+    \ \u2026, 1998"
+  date: '1998-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4JMBOYKVnBMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:-f6ydRqryjwC
+  title: "Correction to \u201CLower bounds on VC-dimension of smoothly parameterized\
+    \ function classes\u201D"
+  authors:
+  - WS Lee
+  - PL Bartlett
+  - RC Williamson
+  publisher: Neural computation 9 (4), 765-769, 1997
+  date: '1997-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:-f6ydRqryjwC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:JQPmwQThujIC
+  title: 'Act to see and see to act: Pomdp planning for objects search in clutter.
+    In 2016 IEEE'
+  authors:
+  - JK Li
+  - D Hsu
+  - WS Lee
+  publisher: RSJ International Conference on Intelligent Robots and Systems (IROS),
+    5701-5707, 0
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:JQPmwQThujIC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:GO5CT2y9xrEC
+  title: Efficient offline policy optimization with a learned model
+  authors:
+  - Z Liu
+  - S Li
+  - WS Lee
+  - S Yan
+  - Z Xu
+  publisher: arXiv preprint arXiv:2210.05980, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:GO5CT2y9xrEC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1708,41 +1800,17 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:4JMBOYKVnBMC
-  title: Spatial temporal concealment of lost blocks in coded video
+- id: 8PCrLgwAAAAJ:EO1llL0aI9sC
+  title: Differentiable parsing and visual grounding of natural language instructions
+    for object placement
   authors:
+  - Z Zhao
   - WS Lee
-  - MR Frater
-  - MR Pickering
-  - JE Arnold
-  publisher: "Image Processing, 1998. ICIP 98. Proceedings. 1998 International Conference\
-    \ \u2026, 1998"
-  date: '1998-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:4JMBOYKVnBMC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:TEVcCiyi8yIC
-  title: Neuralizing efficient higher-order belief propagation
-  authors:
-  - MH Dupty
-  - WS Lee
-  publisher: arXiv preprint arXiv:2010.09283, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:TEVcCiyi8yIC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:b2kfBsK7yCQC
-  title: 'Particle filter networks: End-toend probabilistic localization from visual
-    observations'
-  authors:
-  - P Karkus
   - D Hsu
-  - WS Lee
-  publisher: arXiv preprint arXiv:1805.08975, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:b2kfBsK7yCQC
+  publisher: "2023 IEEE International Conference on Robotics and Automation (ICRA),\
+    \ 11546 \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:EO1llL0aI9sC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1769,18 +1837,29 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:FepLwMwnKBMC
-  title: Combining reinforcement learning and optimal transport for the traveling
-    salesman problem
+- id: 8PCrLgwAAAAJ:NRnkAyzcrGMC
+  title: Factor graph neural networks
   authors:
-  - YL Goh
+  - Z Zhang
+  - MH Dupty
+  - F Wu
+  - JQ Shi
   - WS Lee
-  - X Bresson
-  - T Laurent
-  - N Lim
-  publisher: arXiv preprint arXiv:2203.00903, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:FepLwMwnKBMC
+  publisher: Journal of Machine Learning Research 24 (181), 1-54, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:NRnkAyzcrGMC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:edV_OwlUe4UC
+  title: Ensemble and auxiliary tasks for data-efficient deep reinforcement learning
+  authors:
+  - MR Maulana
+  - WS Lee
+  publisher: "Machine Learning and Knowledge Discovery in Databases. Research Track\
+    \ \u2026, 2021"
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:edV_OwlUe4UC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1858,6 +1937,20 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:nb7KW1ujOQ8C
+  title: A diversity-based scheme for reducing error propagation in video
+  authors:
+  - WS Lee
+  - MR Frater
+  - MR Pickering
+  - JF Arnold
+  publisher: Proceedings of International Conference on Image Processing 3, 582-585,
+    1997
+  date: '1997-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:nb7KW1ujOQ8C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:7q08wCQPkLwC
   title: Differentiable parsing and visual grounding of verbal instructions for object
     placement
@@ -1865,21 +1958,21 @@
   - Z Zhao
   - WS Lee
   - D Hsu
-  publisher: arXiv preprint arXiv:2210.00215, 2022
+  publisher: Workshop on Language and Robotics at CoRL 2022, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:7q08wCQPkLwC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:edV_OwlUe4UC
-  title: Ensemble and auxiliary tasks for data-efficient deep reinforcement learning
+- id: 8PCrLgwAAAAJ:kcGNQN_anIUC
+  title: Multiplicative Gaussian Particle Filter
   authors:
-  - MR Maulana
+  - X Su
   - WS Lee
-  publisher: "Machine Learning and Knowledge Discovery in Databases. Research Track\
-    \ \u2026, 2021"
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:edV_OwlUe4UC
+  - Z Zhang
+  publisher: AISTATS 2020, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:kcGNQN_anIUC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1903,7 +1996,7 @@
   - P Karkus
   - D Hsu
   - WS Lee
-  publisher: Proc. NeurIPS RLPO Workshop, 2018
+  publisher: NeurIPS RLPO Workshop, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:QlnOKEPDpKwC
   gsid: 8PCrLgwAAAAJ
@@ -1924,20 +2017,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:nb7KW1ujOQ8C
-  title: A diversity-based scheme for reducing error propagation in video
-  authors:
-  - WS Lee
-  - MR Frater
-  - MR Pickering
-  - JF Arnold
-  publisher: Proceedings of International Conference on Image Processing 3, 582-585,
-    1997
-  date: '1997-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:nb7KW1ujOQ8C
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:xtRiw3GOFMkC
   title: Robustness of multiplexing protocols for audio-visual services over wireless
     networks
@@ -1953,6 +2032,44 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:N7YTE_TVRugC
+  title: 'Tell2Design: A Dataset for Language-Guided Floor Plan Generation'
+  authors:
+  - S Leng
+  - Y Zhou
+  - MH Dupty
+  - WS Lee
+  - SC Joyce
+  - W Lu
+  publisher: arXiv preprint arXiv:2311.15941, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:N7YTE_TVRugC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:-TLX1-BxFiYC
+  title: Graph Representation Learning with Individualization and Refinement
+  authors:
+  - MH Dupty
+  - WS Lee
+  publisher: arXiv preprint arXiv:2203.09141, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:-TLX1-BxFiYC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:dIILA_La5fwC
+  title: 'Expose: Combining state-based exploration with gradient-based online search'
+  authors:
+  - D Mittal
+  - S Aravindan
+  - WS Lee
+  publisher: arXiv preprint arXiv:2202.01461, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dIILA_La5fwC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:dyiPZ63SVtYC
   title: Factor Graph Molecule Network for Structure Elucidation
   authors:
@@ -1962,18 +2079,6 @@
   publisher: arXiv preprint arXiv:2012.05665, 2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dyiPZ63SVtYC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:kcGNQN_anIUC
-  title: Multiplicative Gaussian Particle Filter
-  authors:
-  - X Su
-  - WS Lee
-  - Z Zhang
-  publisher: AISTATS 2020, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:kcGNQN_anIUC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -2038,15 +2143,30 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:YiZc1oW-E3oC
-  title: Large Language Models as Commonsense Knowledge for Large-Scale Task Planning
+- id: 8PCrLgwAAAAJ:HOg0WoviCygC
+  title: Constrained Layout Generation with Factor Graphs
   authors:
-  - Z Zhao
+  - MH Dupty
+  - Y Dong
+  - S Leng
+  - G Fu
+  - YL Goh
+  - W Lu
   - WS Lee
-  - D Hsu
-  publisher: arXiv preprint arXiv:2305.14078, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:YiZc1oW-E3oC
+  publisher: arXiv preprint arXiv:2404.00385, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:HOg0WoviCygC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:BHd7YmozNHgC
+  title: Differentiable Tree Search in Latent State Space
+  authors:
+  - D Mittal
+  - WS Lee
+  publisher: arXiv preprint arXiv:2401.11660, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:BHd7YmozNHgC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -2063,23 +2183,9 @@
   - S Poria
   - WS Lee
   publisher: 'Findings of the Association for Computational Linguistics: EACL 2023,
-    1441-1454, 2023'
+    1471-1484, 2023'
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:BDTQWqO089sC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:GO5CT2y9xrEC
-  title: Efficient Offline Policy Optimization with a Learned Model
-  authors:
-  - Z Liu
-  - S Li
-  - WS Lee
-  - S Yan
-  - Z Xu
-  publisher: arXiv preprint arXiv:2210.05980, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:GO5CT2y9xrEC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -2098,17 +2204,6 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:-TLX1-BxFiYC
-  title: Graph Representation Learning with Individualization and Refinement
-  authors:
-  - MH Dupty
-  - WS Lee
-  publisher: arXiv preprint arXiv:2203.09141, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:-TLX1-BxFiYC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:AeM5kdmBKVwC
   title: Context-Hierarchy Inverse Reinforcement Learning
   authors:
@@ -2118,18 +2213,6 @@
   publisher: arXiv preprint arXiv:2202.12597, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:AeM5kdmBKVwC
-  gsid: 8PCrLgwAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: 8PCrLgwAAAAJ:dIILA_La5fwC
-  title: 'ExPoSe: Combining State-Based Exploration with Gradient-Based Online Search'
-  authors:
-  - D Mittal
-  - S Aravindan
-  - WS Lee
-  publisher: arXiv preprint arXiv:2202.01461, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dIILA_La5fwC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -2219,6 +2302,20 @@
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:hXZnTIgIr50C
+  title: Intention-aware motion planning
+  authors:
+  - WK Sung
+  - F Emilio
+  - H David
+  - LW Sun
+  - R Daniela
+  publisher: Workshop on the Algorithmic Foundations of Robotics, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:hXZnTIgIr50C
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: 8PCrLgwAAAAJ:Vch7EZszQGgC
   title: The importance of convexity in learning with squared loss (vol 44, pg 1074,
     1998)
@@ -2253,6 +2350,21 @@
   publisher: ''
   date: '2002-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:lL5f5cZgq8MC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:lYbyOjaXH8MC
+  title: Building Text Classifiers Using Positive and Unlabeled Examples Bing Liu
+    Department of Computer Science University of Illinois at Chicago {liub@ cs. uic.
+    edu}
+  authors:
+  - Y Dai
+  - X Li
+  - WS Lee
+  - SY Philip
+  publisher: 'IEEE International Conference on Data Mining: Proceedings, 179, 2001'
+  date: '2001-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:lYbyOjaXH8MC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -2301,6 +2413,27 @@
   publisher: ''
   date: '1998-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:1sJd4Hv_s6UC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:dw5aoL0HVgwC
+  title: ALanguage Modeling Approach to Passage Question Answering
+  authors:
+  - D Zhang
+  - WS Lee
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:dw5aoL0HVgwC
+  gsid: 8PCrLgwAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: 8PCrLgwAAAAJ:D4n_APcuzvwC
+  title: AFRL-AFOSR-JP-TR-2017-0043
+  authors:
+  - WS Lee
+  publisher: ''
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8PCrLgwAAAAJ&cstart=100&pagesize=100&citation_for_view=8PCrLgwAAAAJ:D4n_APcuzvwC
   gsid: 8PCrLgwAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
