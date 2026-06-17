@@ -2,13 +2,11 @@
 title: Home
 ---
 
-<center> <font size='7'><b>NUS-LID Group</b></font> </center>
+{% include figure.html image="images/logo.png" width="400px" %}
 
-<center><font size="6"> <b>L</b>earning, <b>I</b>nference, and <b>D</b>ecision Group at NUS </font></center>
+This website is currently under construction.
 
-This website is currently under construction. 
-
-Welcome to NUS-LID group's website. We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
+Welcome to the Learning and Reasoning Agent group (LRA) at NUS. We work on learning and reasoning agents, including machine learning, planning under uncertainty, and approximate inference.
 
 {% include section.html %}
 
@@ -16,7 +14,7 @@ Welcome to NUS-LID group's website. We work on exciting research in machine lear
 
 {% capture text %}
 
-Find out our selected research papers in the related fields of machine learning, planning, inference, and more. 
+Explore our highlighted research papers. Members can add project pages following the Shell Game example on the Research page.
 
 {%
   include button.html
@@ -31,7 +29,7 @@ Find out our selected research papers in the related fields of machine learning,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/logo.png"
   link="research"
   title="Our Research"
   text=text
@@ -39,32 +37,7 @@ Find out our selected research papers in the related fields of machine learning,
 
 {% capture text %}
 
-Find out our current research topics!
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Meet with our team members
+Meet our current team members and alumni.
 
 {%
   include button.html
@@ -82,5 +55,6 @@ Meet with our team members
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}

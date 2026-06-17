@@ -14,6 +14,11 @@
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
+    {% if logo %}
+      <span class="logo" data-tooltip="Home">
+        <img src="{{ logo | relative_url }}" alt="{{ site.title | default: 'Home' }} logo">
+      </span>
+    {% endif %}
     {% if site.logo-text != false %}
       <span class="title" data-tooltip="Home">
         {% if site.title and site.show-title != false %}

@@ -1,7 +1,7 @@
 ---
 name: Liu Zichen 
 image: images/zichen.jpeg
-role: phd
+role: alumni
 links:
   github: lkevinzc
 ---

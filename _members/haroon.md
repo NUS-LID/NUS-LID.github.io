@@ -1,7 +1,7 @@
 ---
 name: Mohammed Haroon Dupty
 image: images/haroon.jpg
-role: postdoc
+role: alumni
 links:
   email: haroon@nus.edu.sg
 ---

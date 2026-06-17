@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: NUS-LID
-subtitle: Learning, Inference, and Decision Group at NUS
-description: We work on exciting research in machine learning, planning under uncertainty, and approximate inference. 
+title: NUS-LRA
+subtitle: Learning and Reasoning Agent Group at NUS
+description: We work on learning and reasoning agents, including machine learning, planning under uncertainty, and approximate inference. 
 header: images/background.png
 footer: images/background.png
 
@@ -9,7 +9,7 @@ footer: images/background.png
 links:
   email: leews@comp.nus.edu.sg
   google-scholar: 8PCrLgwAAAAJ
-  github: NUS-LID
+  github: NUS-LRA
 
 ### jekyll settings
 

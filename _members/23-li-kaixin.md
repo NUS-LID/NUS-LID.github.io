@@ -1,7 +1,7 @@
 ---
 name: Li Kaixin
 image: images/kaixin.jpg
-role: phd
+role: alumni
 links:
   email: likaixin@u.nus.edu
   home-page: https://Happylkx.github.io
