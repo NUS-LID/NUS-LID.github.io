@@ -20,10 +20,12 @@
   width: 250px;
 }
 
-.card-image img {
+.card-image img,
+.card-image video {
   aspect-ratio: 3 / 2;
   object-fit: cover;
   width: 100%;
+  display: block;
   // box-shadow: var(--shadow);
 }
 

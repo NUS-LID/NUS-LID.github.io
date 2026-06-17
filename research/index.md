@@ -11,8 +11,6 @@ nav:
 
 ## Highlighted Papers
 
-Use the Shell Game project page below as a template when adding highlight papers for the group.
-
 {% include section.html %}
 
 {%
@@ -21,5 +19,6 @@ Use the Shell Game project page below as a template when adding highlight papers
   subtitle="VET-Bench"
   description="Visual Entity Tracking Benchmark (VET-Bench) is a synthetic diagnostic benchmark simulating the shell game with visually indistinguishable objects. State-of-the-art VLMs perform at random chance, while our proposed Molmo2-SGCoT achieves over 90% accuracy."
   link="https://vetbench.github.io/"
-  image="images/logo.png"
+  image="images/cup_001.png"
+  video="images/cup_001.mp4"
 %}

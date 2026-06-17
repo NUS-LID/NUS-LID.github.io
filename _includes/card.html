@@ -7,12 +7,24 @@
     aria-label="{{ include.title | default: "card link" }}"
     class="card-image"
   >
+    {% if include.video %}
+      <video
+        src="{{ include.video | relative_url }}"
+        poster="{{ include.image | relative_url }}"
+        autoplay
+        loop
+        muted
+        playsinline
+        aria-label="{{ include.title | default: 'card video' }}"
+      ></video>
+    {% else %}
     <img
       src="{{ include.image | relative_url }}"
       alt="{{ include.title | default: "card image" }}"
       loading="lazy"
       {% include fallback.html %}
     >
+    {% endif %}
   </a>
 
   <div class="card-text">

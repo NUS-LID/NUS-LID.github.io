@@ -2,8 +2,6 @@
 title: Home
 ---
 
-{% include figure.html image="images/logo.png" width="400px" %}
-
 This website is currently under construction.
 
 Welcome to the Learning and Reasoning Agent group (LRA) at NUS. We work on learning and reasoning agents, including machine learning, planning under uncertainty, and approximate inference.
@@ -14,7 +12,7 @@ Welcome to the Learning and Reasoning Agent group (LRA) at NUS. We work on learn
 
 {% capture text %}
 
-Explore our highlighted research papers. Members can add project pages following the Shell Game example on the Research page.
+Explore our highlighted research papers.
 
 {%
   include button.html
@@ -29,7 +27,7 @@ Explore our highlighted research papers. Members can add project pages following
 
 {%
   include feature.html
-  image="images/logo.png"
+  image="images/photo.jpg"
   link="research"
   title="Our Research"
   text=text
